@@ -3,7 +3,7 @@
 //  Project_work_Dmitrii_Bacherikov
 //
 //  Created by Dmitrii Bacherikov on 02.04.2021.
-//
+// 
 
 #include "Game.hpp"
 #include "Constants.hpp"
