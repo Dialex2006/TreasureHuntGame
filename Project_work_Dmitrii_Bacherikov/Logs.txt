@@ -1,0 +1,5 @@
+27-04-2021 15:05:50 Moving right. Energy left: 96
+27-04-2021 15:05:51 Moving down. Energy left: 92
+27-04-2021 15:05:51 Moving down. Energy left: 88
+27-04-2021 15:05:52 Sadly you lost :-/ The game is over.
+27-04-2021 15:05:52 You reached level 1 and got 0 points.
